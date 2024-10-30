@@ -117,10 +117,3 @@ Follow the notebook's instructions to execute each section of the analysis.
 This Ice Cream Simple Linear Regression Data Analysis project provides valuable insights into the correlation between temperature and ice cream sales. By employing statistical analysis and predictive modeling, businesses can make data-driven decisions that enhance their operational efficiency and profitability. The clear visualizations and comprehensive evaluations presented in the notebook ensure that the findings are accessible to both data scientists and business stakeholders.
 Future Work
 
-## Future extensions of this project could involve:
-
-   Incorporating Additional Variables: Such as humidity, day of the week, and local events to improve the model's accuracy.
-  
-   Testing Other Models: Exploring more complex regression models, such as polynomial regression or multiple linear regression, to capture non-linear relationships.
-  
-   Time-Series Analysis: Analyzing sales data over time to identify seasonal trends and patterns that could further inform business strategies.
